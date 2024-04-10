@@ -12,6 +12,8 @@
 
 }
 
+.menu__container{}
+
 .superior__seccion__container{
     display: flex;
     align-items: center;
