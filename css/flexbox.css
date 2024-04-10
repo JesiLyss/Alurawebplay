@@ -12,6 +12,13 @@
 
 }
 
+.rodapie__container{
+    display: block;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+
 @media(min-width:834px){
 
     .cabecera_buscar_item{
