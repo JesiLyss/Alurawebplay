@@ -12,7 +12,12 @@
 
 }
 
-.menu__container{}
+.menu__container{
+    position: fixed;
+    bottom:0%;
+    height: 75px;
+    width: 100%;
+}
 
 .superior__seccion__container{
     display: flex;
