@@ -1,0 +1,23 @@
+
+.cabecera__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.cabecera_buscar_item{
+    display: none;
+
+}
+
+@media(min-width:834px){
+
+    .cabecera_buscar_item{
+        display: block;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+}
