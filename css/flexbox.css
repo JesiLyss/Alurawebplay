@@ -12,6 +12,8 @@
 
 }
 
+.superior__seccion__container{}
+
 .rodapie__container{
     display: flex;
     /*flex-direction: column;
