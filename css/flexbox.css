@@ -12,7 +12,9 @@
 
 }
 
-.superior__seccion__container{}
+.superior__seccion__container{
+    display: flex;
+}
 
 .rodapie__container{
     display: flex;
