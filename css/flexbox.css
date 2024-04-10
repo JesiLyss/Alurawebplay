@@ -12,6 +12,7 @@
 
 }
 
+
 .menu__container{
     position: fixed;
     bottom:0%;
@@ -25,7 +26,9 @@
 
 .menu__lista:nth-child(2),
 .menu__lista:nth-child(3),
-.menu__lista:nth-child(4),
+.menu__lista:nth-child(4),{
+    display:none;
+}
 
 .superior__seccion__container{
     display: flex;
