@@ -14,8 +14,9 @@
 
 .rodapie__container{
     display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
+    /*flex-direction: column;
+    flex-wrap: nowrap;*/
+    flex-flow:column wrap
 }
 
 
