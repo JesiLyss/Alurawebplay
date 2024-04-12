@@ -94,6 +94,7 @@
     @media(min-width:1440px){
         .menu__container{
             width: 239px;
+            overflow: scroll;
         }
 
     .menu__lista:nth-child(2),
